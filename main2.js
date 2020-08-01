@@ -23,7 +23,7 @@ class CurrencyConverter {
         return dollar * this._rateOfDollar;
     }
     // ユーロを円に変換するメソッド
-    euroTOyen(euro) {
+    euroToyen(euro) {
         return euro * this._rateOfEuro;
     }
 
